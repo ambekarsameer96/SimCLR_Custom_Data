@@ -1,2 +1,2 @@
 # SimCLR_Custom_Data
-Minor modifications to accodanet
+Minor modifications have been made
